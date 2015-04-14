@@ -1,0 +1,1 @@
+Temporary (or permanent) repository for EQEmulator maps.
